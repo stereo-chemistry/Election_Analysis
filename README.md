@@ -24,4 +24,3 @@ Given this Python script's successful output and ease of use, I propose this scr
 * Change file_to_load in line 9 of the code to: file_to_load = os.path.join("folder_name1", "election_data.csv")
 * Change file_to_save in line 11 to file_to_save = os.path.join("folder_name2", "election_analysis.txt")
 * Once you've run the code, the output will display in the terminal, and the text file of the election results will appear in folder_name2 from the previous step
-* 
