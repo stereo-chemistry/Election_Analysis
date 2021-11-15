@@ -23,6 +23,6 @@ The purpose of this project is to generate a working Python script in VS Code th
 Given this Python script's successful output and ease of use, I propose this script is reused to analyze any csv file of election data. The code itself can be reused, with some minor adjustments, to analyze any csv stock data. In order to reuse this code, follow the below steps:
 * Download the Python script and open in VS Code.
 * Move the downloaded Python script into a directory containing a folder of your election data csv files. Create a folder to contain the text file output of your election results. Take note of these folder names and csv file names for the next two steps
-* Change file_to_load in line 9 of the code to: file_to_load = os.path.join("folder_name1", "election_data.csv")
+* Change file_to_load in line 9 of the code to: file_to_load = os.path.join("folder_name1", "csv_file_name.csv")
 * Change file_to_save in line 11 to file_to_save = os.path.join("folder_name2", "election_analysis.txt")
 * Once you've run the code, the output will display in the terminal, and the text file of the election results will appear in folder_name2 from the previous step
