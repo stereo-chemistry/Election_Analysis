@@ -17,6 +17,8 @@ The purpose of this project is to generate a working Python script in VS Code th
   *  Diana Degette: 272,892 votes received: 73.8% of the total vote received
   *  Raymon Anthony Doane: 11,606 votes received: 3.1% of the total vote
 * The winning candidate was Diana Degette with 272,892 votes received; 73.8% of the total vote
+
+![](analysis/election_analysis%20(2).png)
 ## Summary
 Given this Python script's successful output and ease of use, I propose this script is reused to analyze any csv file of election data. The code itself can be reused, with some minor adjustments, to analyze any csv stock data. In order to reuse this code, follow the below steps:
 * Download the Python script and open in VS Code.
